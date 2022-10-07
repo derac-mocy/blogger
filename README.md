@@ -1,2 +1,2 @@
-# tasker
-Tasker powered by react.js
+# Blogger
+Blogger powered by react.js
